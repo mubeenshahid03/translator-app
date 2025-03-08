@@ -4,7 +4,7 @@ type Props = {};
 
 function Index({}: Props) {
   return (
-    <footer className="footer sm:footer-horizontal bg-base-200 text-base-content p-10 mt-auto">
+    <footer className="footer sm:footer-horizontal bg-neutral text-neutral-content p-10 mt-auto">
       <aside>
         <svg
           width="50"

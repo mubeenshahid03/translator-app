@@ -8,7 +8,7 @@ type Props = {};
 function Index({}: Props) {
   return (
     <div className="container mx-auto px-4 py-16 sm:py-24">
-      <div className="text-center mb-16">
+      <div className="text-center mb-8">
         <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
           <span className="block mb-2"> GenZ Translator</span>
           {/* <span className="block text-blue-600 dark:text-blue-400">
